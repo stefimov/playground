@@ -3,7 +3,6 @@ package Playground;
 public class Main {
 	public static void main(String[] args)
 	{
-		System.out.println("Hello, World!\nGit too!");
-		
+		System.out.println("Hello, World!\nGit too!\nYeah!");
 	}
 }
